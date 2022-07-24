@@ -1,12 +1,9 @@
 # Namespaced project name that the target belongs to
-project: bmwtsn098/vc4c
+project: VC4C
 
 # Target name (should be unique within the project)
 target: vc4c
 
-# Base image to run the binary in.
-image: ghcr.io/bmwtsn098/vc4c:latest
-duration: 300
 # List of commands used to test the target
 cmds:
 
